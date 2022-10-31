@@ -1,0 +1,1 @@
+O texto em '3 - message.txt' vai ser spamado 100 vezes depois dos 7 segundos de início do bot
